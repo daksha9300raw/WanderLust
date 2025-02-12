@@ -42,7 +42,9 @@ node app.js
 
 http://localhost:8080
 
+⚠️ Disclaimer
+The listings displayed in WanderLust (such as Rashtrapati Bhavan and Kishangarh Riyaasat) are purely for demonstration and testing purposes. These are not actual rental properties and do not represent real-world accommodations. This project is a personal learning experience inspired by Airbnb, developed using the MERN stack.
+
 📸 Screenshots
 
 ![image alt](https://github.com/daksha9300raw/WanderLust/blob/a59aee526e06eff1f07f0bfec67b492840e50489/Screenshot%202025-02-12%20175514.png)
-
