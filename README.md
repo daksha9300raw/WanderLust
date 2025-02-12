@@ -1,4 +1,4 @@
-🌍 WanderLust – MERN-Based Travel & Stay Booking Platform < br / >
+🌍 WanderLust – MERN-Based Travel & Stay Booking Platform <br/>
 WanderLust is a full-stack web application inspired by Airbnb, allowing users to explore, list, and review travel accommodations. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this project integrates user authentication, dynamic listings, reviews, and session management to provide a seamless booking experience.
 < br / >
 🚀 Features
