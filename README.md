@@ -44,3 +44,5 @@ http://localhost:8080
 
 📸 Screenshots
 
+https://github.com/daksha9300raw/WanderLust/blob/a59aee526e06eff1f07f0bfec67b492840e50489/Screenshot%202025-02-12%20175514.png
+
